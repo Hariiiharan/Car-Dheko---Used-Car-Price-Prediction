@@ -1,4 +1,4 @@
-# Car-Dheko---Used-Car-Price-Prediction
+# Car-Dheko-Used-Car-Price-Prediction
 
 # Car Price Prediction App
 This project is a machine learning-based web application for predicting car prices based on various car attributes. The model was trained using data on car features such as body type, fuel type, engine size, and more. The app is deployed using Streamlit, making it easy for users to interact with the model and get predictions in real-time.
